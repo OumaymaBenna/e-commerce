@@ -21,9 +21,7 @@ A **dynamic online store** built with **Laravel**, offering:
 ## 🚀 Technologies Used
 - Laravel 10+  
 - MySQL  
-- Vue.js / Inertia.js  
-- Tailwind CSS / Bootstrap  
-- Stripe (Payments)  
+
 
 ## 📦 Installation
 ```bash
